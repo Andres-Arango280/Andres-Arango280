@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería de Sistemas en la Universidad de Medellín (Colombia). Construyo aplicaciones completas, desde la base de datos y la API hasta la interfaz y las pruebas.
 
-Busco **prácticas profesionales** en desarrollo de software, en Medellín o en remoto.
+Busco **prácticas profesionales o mi primer empleo** como desarrollador de software, en Medellín o en remoto, con horario flexible para terminar la carrera.
 
 ## Tecnologías
 
