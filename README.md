@@ -27,4 +27,4 @@ Busco **prácticas profesionales** en desarrollo de software, en Medellín o en 
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/brahian-osorio-05aa12250/)
+[LinkedIn](https://www.linkedin.com/in/brahian-osorio-arango-05aa12250/)
